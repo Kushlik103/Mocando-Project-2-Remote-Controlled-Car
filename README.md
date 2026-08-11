@@ -7,3 +7,4 @@ On the second day with more testing and debugging I didn't had the same problem 
 Then came the coding part which took me more than 30 mins
 On the second day with a spare battery holder I re-attached the wiring and this time I had some problem as the motors were not working and secondly Arduino was not getting power directly from the motor driver, a simple little jumper was the main issue which was later fixed when i started to lose hope. But then i just attached that jumper and it started to work then I started coding and slowly got the remote codes and in 30 mins my code was ready. After some testing the car was finally ready.
 It is fun to play and also make me proud when I see it.
+<img width="720" height="1280" alt="WhatsApp Image 2026-08-10 at 9 46 12 PM" src="https://github.com/user-attachments/assets/16155133-fb35-430e-8e95-175cad7725e2" />
